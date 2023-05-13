@@ -269,7 +269,7 @@ body {
   margin-top: 19px;
 }
 
-.language-list ul {
+.language .language-list ul {
   display: flex;
   flex-direction: column;
   margin-top: -10px;
@@ -296,8 +296,8 @@ body {
   margin-top: 49px;
 }
 
-.section4{
-  background: linear-gradient(234.04deg, #7F38DA 0%, #4052F0 71.02%);
+.section4 {
+  background: linear-gradient(234.04deg, #7f38da 0%, #4052f0 71.02%);
   margin-top: 60px;
   padding-bottom: 50px;
   padding-top: 30px;
@@ -314,7 +314,7 @@ input {
   font-size: 16px;
   width: 332px;
   height: 59px;
-  background: #FFFFFF;
+  background: #fff;
   border: none;
   border-radius: 14px;
   margin-bottom: 8px;
@@ -329,14 +329,14 @@ textarea {
   font-size: 14px;
   width: 332px;
   height: 185px;
-  background: #FFFFFF;
+  background: #fff;
   border: none;
   border-radius: 14px;
   color: #7d7c84;
   margin-top: 9px;
 }
 
-.getintouch{
+.getintouch {
   display: flex;
   justify-content: center;
   align-items: center;
@@ -348,14 +348,14 @@ textarea {
   height: 59px;
   left: 22px;
   top: 4015px;
-  background: #FA4969;
+  background: #fa4969;
   border-radius: 60px;
-  color: #FFFFFF;
+  color: #fff;
   margin-top: 20px;
   margin-left: 22px;
 }
 
-.my-email{
+.my-email {
   font-family: 'Sora', sans-serif;
   font-style: normal;
   font-weight: 400;
@@ -363,23 +363,21 @@ textarea {
   display: flex;
   justify-content: center;
   align-items: center;
-  color: #C5CBFE;
+  color: #c5cbfe;
   margin-top: 36px;
 }
-  
-.media .media-links2{
+
+.media .media-links2 {
   display: flex;
   justify-content: space-between;
-  margin-top: 4px;
   margin-left: 18px;
   margin-right: 17px;
   margin-top: 30px;
 }
 
-.lastline{
-border: 1px solid #6877FF;
-margin-top: 32px;
-margin-left: 20px;
-margin-right: 21px;
+.lastline {
+  border: 1px solid #6877ff;
+  margin-top: 32px;
+  margin-left: 20px;
+  margin-right: 21px;
 }
-
