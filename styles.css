@@ -1,114 +1,113 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&family=Sora:wght@200;300;400;700&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@200;400&family=Roboto:ital,wght@0,300;0,400;0,700;1,400&family=Sora:wght@200;300;400;700&display=swap');
 
-body{
-    margin: 0;
-    padding: 0;
-    width: 375px;
-    height: 4294px;
+body {
+  margin: 0;
+  padding: 0;
+  width: 375px;
+  height: 4294px;
 }
 
-.main{
-    background: linear-gradient(248.05deg, #AE5BD6 24.1%, #4052F0 99.44%);
-    background-blend-mode: screen;
-    padding-bottom: 40px;
+.main {
+  background: linear-gradient(248.05deg, #ae5bd6 24.1%, #4052f0 99.44%);
+  background-blend-mode: screen;
+  padding-bottom: 40px;
 }
 
-.header .logo{
-    width: 64px;
-    height: 64px;
-    border-radius: 50%;
-    background: #4456FB;
-    margin-top: 32px;
-    margin-left: 25px;
+.header .logo {
+  width: 64px;
+  height: 64px;
+  border-radius: 50%;
+  background: #4456fb;
+  margin-top: 32px;
+  margin-left: 25px;
 }
 
-.header h1{
-    font-family: 'Poppins', sans-serif;
-    font-weight: 800;
-    font-size: 20px;
-    color: #FFFFFF;
-    margin-left: 18px;
+.header h1 {
+  font-family: 'Poppins', sans-serif;
+  font-weight: 800;
+  font-size: 20px;
+  color: #fff;
+  margin-left: 18px;
 }
 
-.nav ul li{
-    font-family: 'Sora', sans-serif;
-    font-style: normal;
-    font-weight: 500;
-    font-size: 16px;
-    list-style: none;
-    margin-top: 39px;
-    color: #FFFFFF;
-    margin-right: 16px;
+.nav ul li {
+  font-family: 'Sora', sans-serif;
+  font-style: normal;
+  font-weight: 500;
+  font-size: 16px;
+  list-style: none;
+  margin-top: 39px;
+  color: #fff;
+  margin-right: 16px;
 }
 
-.header{
-    display: flex;
+.header {
+  display: flex;
 }
 
-.nav ul{
-    display: flex;
-    justify-content: space-between;
+.nav ul {
+  display: flex;
+  justify-content: space-between;
 }
 
-.content h1{
-    font-weight: 700;
-    font-size: 48px;
-    margin-top: 36px;
+.content h1 {
+  font-weight: 700;
+  font-size: 48px;
+  margin-top: 36px;
 }
 
-.content h2{
-    font-weight: 700;
-    font-size: 28px;
-    margin-top: -36px;
+.content h2 {
+  font-weight: 700;
+  font-size: 28px;
+  margin-top: -36px;
 }
 
-.content p{
+.content p {
   margin-top: 10px;
   margin-right: 25px;
 }
 
-.content{
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
-    font-family: 'Sora', sans-serif;
-    font-weight: 400;
-    font-size: 16px;
-    font-style: normal;
-    color: white;
-    margin-left: 30px;
+.content {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  font-family: 'Sora', sans-serif;
+  font-weight: 400;
+  font-size: 16px;
+  font-style: normal;
+  color: white;
+  margin-left: 30px;
 }
 
-.social-media{
-    width: 349px;
-    height: 104px;
-    background: #FFFFFF;
-    border-radius: 20px;
-    margin-left: 13px;
+.social-media {
+  width: 349px;
+  height: 104px;
+  background: #fff;
+  border-radius: 20px;
+  margin-left: 13px;
 }
 
-.links{
-    display: flex;
-    flex-direction: column;
-    margin-top: 12px;
+.links {
+  display: flex;
+  flex-direction: column;
+  margin-top: 12px;
 }
 
-.media-links{
-    display: flex;
-    justify-content: space-between;
-    margin-top: 4px;
-    margin-left: 18px;
-    margin-right: 17px;
+.media-links {
+  display: flex;
+  justify-content: space-between;
+  margin-top: 4px;
+  margin-left: 18px;
+  margin-right: 17px;
 }
 
-.links h2{
-    font-family: 'Sora', sans-serif;
-    font-style: normal;
-    font-weight: 400;
-    font-size: 16px;
-    line-height: 20px;
-    color: #4F5461;
-    margin-left: 18px;
-    margin-top: 20px;
+.links h2 {
+  font-family: 'Sora', sans-serif;
+  font-style: normal;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #4f5461;
+  margin-left: 18px;
+  margin-top: 20px;
 }
